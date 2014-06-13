@@ -1,3 +1,5 @@
+This is a fork from https://github.com/Herzult/php-ssh because no realase tags where given.
+
 PHP SSH
 =======
 
